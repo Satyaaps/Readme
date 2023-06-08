@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **everyone**
 
-- 🤝 I’m looking for help with **who interested no my code**
+- 🤝 I’m looking for help with **who interested on my code**
 
 - 💬 Ask me about **everything**
 
