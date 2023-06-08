@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Java, PHP, Js**
 
-- 👯 I’m looking to collaborate on everyone **everyone**
+- 👯 I’m looking to collaborate with **everyone**
 
 - 🤝 I’m looking for help with **someone who need help with my code**
 
