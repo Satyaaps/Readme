@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I am fast in learning something new**
 
+<br>
+h3 align="center" > <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/satya ariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satya ariya" height="30" width="40" /></a>
