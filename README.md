@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **everyone**
 
-- 🤝 I’m looking for help with **someone who need help with my code**
+- 🤝 I’m looking for help with **everyone who need help with my code**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satyaaps?tab=repositories](https://github.com/Satyaaps?tab=repositories)
 
