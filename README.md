@@ -10,17 +10,15 @@
 
 - 👯 I’m looking to collaborate with **everyone**
 
-- 🤝 I’m looking for help with **everyone who need help with my code**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Satyaaps?tab=repositories](https://github.com/Satyaaps?tab=repositories)
+- 🤝 I’m looking for help with **who interested no my code**
 
 - 💬 Ask me about **everything**
 
 - 📫 How to reach me **satyaariya71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link](https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link)
-
 - ⚡ Fun fact **I am fast in learning something new**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link](https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link)
 
 <h3 align="left"><br>Connect with me 🤝 </h3>
 <p align="left">
