@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am fast in learning something new**
 
 <br>
-h3 align="center" > <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+h3 align="center" > <img src="![giphy](https://github.com/Satyaaps/Satyaaps/assets/114044303/00d34dd2-69bd-4fd5-8559-c2bbe6dbb984)" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
