@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 - 🔭 I’m currently working on **VOX3 and Freelance**
 
