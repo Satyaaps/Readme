@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am fast in learning something new**
 
 <br>
-<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="4000" height="3000" style="margin-right: 10px;"><br>Connect with me 🤝 </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
