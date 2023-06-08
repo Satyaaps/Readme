@@ -20,9 +20,9 @@
 - ⚡ Fun fact **I am fast in learning something new**
 
 <br>
-<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="600" style="margin-right: 10px;"><br>Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="600" style="margin-right: 10px;"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><br>Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/satya ariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satya ariya" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/faircomand.faircomand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faircomand.faircomand/" height="30" width="40" /></a>
