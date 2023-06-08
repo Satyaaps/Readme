@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **satyaariya71@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DcJGKGrgv3Ljn8eT-vz-KO7m7tldUVVa](https://drive.google.com/drive/folders/1DcJGKGrgv3Ljn8eT-vz-KO7m7tldUVVa)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link](https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link)
 
 - ⚡ Fun fact **I am fast in learning something new**
 
