@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satya</h1>
 <h3 align="center">A passionate frontend and backend developer from Indonesia</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)">
+</a>
 - 🔭 I’m currently working on **VOX3 and Freelance**
 
 - 🌱 I’m currently learning **Python, Java, PHP, Js**
@@ -18,9 +21,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link](https://drive.google.com/file/d/1Mi0j3whx9Q40QJ2uFSEN1E64dOAQhZrh/view?usp=drive_link)
 
 - ⚡ Fun fact **I am fast in learning something new**
-
-<br>
-<h3 align="center" > <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMmExMjViMGQ4ZDFlNDdjZDdmODNlYjIzYzVlY2M0MzY0OTQ5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="600" style="margin-right: 10px;"></h3>
 
 <h3 align="left"><br>Connect with me 🤝 </h3>
 <p align="left">
